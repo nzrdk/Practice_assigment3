@@ -1,3 +1,7 @@
+This is a database system for managing online store orders, including PL/pgSQL procedures and triggers
+
+
+
 # Practice Assignment 3
 
 **Total: 10 points**  
